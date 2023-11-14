@@ -1,0 +1,689 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    116.82950553484261,
+                    6.409613862633705,
+                    300.86328125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT001",
+                "name": "WPT001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83044162578881,
+                    6.40862219966948,
+                    337.66796875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT002",
+                "name": "WPT002"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.82992496527731,
+                    6.406816653907299,
+                    381.02734375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT003",
+                "name": "WPT003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83144996874034,
+                    6.406175019219518,
+                    378.80078125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT004",
+                "name": "WPT004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83297497220337,
+                    6.409233324229717,
+                    316.3984375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT005",
+                "name": "WPT005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.82950553484261,
+                    6.409613862633705,
+                    300.86328125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT006",
+                "name": "WPT006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83843058533967,
+                    6.406588917598128,
+                    191.78125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT007",
+                "name": "WPT007"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83886669576168,
+                    6.405536150559783,
+                    212.328125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT008",
+                "name": "WPT008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83840275742114,
+                    6.404913878068328,
+                    264.69921875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT009",
+                "name": "WPT009"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83789162896574,
+                    6.404247181490064,
+                    304.47265625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT010",
+                "name": "WPT010"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83683886192739,
+                    6.403441680595279,
+                    384.14453125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT011",
+                "name": "WPT011"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83570554479957,
+                    6.402977742254734,
+                    379.484375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT012",
+                "name": "WPT012"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83304169215262,
+                    6.403616694733501,
+                    375.1875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT013",
+                "name": "WPT013"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83308335021138,
+                    6.404458321630955,
+                    390.80859375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT014",
+                "name": "WPT014"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.8329578731209,
+                    6.404720759019256,
+                    388.421875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT015",
+                "name": "WPT015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83269719593227,
+                    6.404911112040281,
+                    383.71875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT016",
+                "name": "WPT016"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83309164829552,
+                    6.405813926830888,
+                    366.40234375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT017",
+                "name": "WPT017"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83297497220337,
+                    6.409233324229717,
+                    316.3984375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT018",
+                "name": "WPT018"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83263609185815,
+                    6.408177791163325,
+                    315.828125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT019",
+                "name": "WPT019"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83243609964848,
+                    6.406305525451899,
+                    357.0234375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT020",
+                "name": "WPT020"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83212496340275,
+                    6.405675038695335,
+                    372.29296875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT021",
+                "name": "WPT021"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83144996874034,
+                    6.406175019219518,
+                    378.80078125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT022",
+                "name": "WPT022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83668052777648,
+                    6.409094436094165,
+                    156.42578125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT023",
+                "name": "WPT023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83803630061448,
+                    6.408352050930262,
+                    141.51171875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT024",
+                "name": "WPT024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.838394459337,
+                    6.40826110728085,
+                    139.36328125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT025",
+                "name": "WPT025"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83782222680748,
+                    6.407722234725952,
+                    168.9609375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT026",
+                "name": "WPT026"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83843058533967,
+                    6.406588917598128,
+                    191.78125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT027",
+                "name": "WPT027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83638330549002,
+                    6.404483299702406,
+                    399.734375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT028",
+                "name": "WPT028"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.835653828457,
+                    6.404898958280683,
+                    410.9375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT029",
+                "name": "WPT029"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83555274270475,
+                    6.404794435948134,
+                    412.203125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT030",
+                "name": "WPT030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83309164829552,
+                    6.405813926830888,
+                    366.40234375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT031",
+                "name": "WPT031"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.83668052777648,
+                    6.409094436094165,
+                    156.42578125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "WPT032",
+                "name": "WPT032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        116.82950553484261,
+                        6.409613862633705,
+                        300.86328125
+                    ],
+                    [
+                        116.83044162578881,
+                        6.40862219966948,
+                        337.66796875
+                    ],
+                    [
+                        116.82992496527731,
+                        6.406816653907299,
+                        381.02734375
+                    ],
+                    [
+                        116.83144996874034,
+                        6.406175019219518,
+                        378.80078125
+                    ],
+                    [
+                        116.83297497220337,
+                        6.409233324229717,
+                        316.3984375
+                    ],
+                    [
+                        116.82950553484261,
+                        6.409613862633705,
+                        300.86328125
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "Minindai1 to Minindai1 001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        116.83843058533967,
+                        6.406588917598128,
+                        191.78125
+                    ],
+                    [
+                        116.83886669576168,
+                        6.405536150559783,
+                        212.328125
+                    ],
+                    [
+                        116.83840275742114,
+                        6.404913878068328,
+                        264.69921875
+                    ],
+                    [
+                        116.83789162896574,
+                        6.404247181490064,
+                        304.47265625
+                    ],
+                    [
+                        116.83683886192739,
+                        6.403441680595279,
+                        384.14453125
+                    ],
+                    [
+                        116.83570554479957,
+                        6.402977742254734,
+                        379.484375
+                    ],
+                    [
+                        116.83304169215262,
+                        6.403616694733501,
+                        375.1875
+                    ],
+                    [
+                        116.83308335021138,
+                        6.404458321630955,
+                        390.80859375
+                    ],
+                    [
+                        116.8329578731209,
+                        6.404720759019256,
+                        388.421875
+                    ],
+                    [
+                        116.83269719593227,
+                        6.404911112040281,
+                        383.71875
+                    ],
+                    [
+                        116.83309164829552,
+                        6.405813926830888,
+                        366.40234375
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "Minindai13 to Minindai17 001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        116.83297497220337,
+                        6.409233324229717,
+                        316.3984375
+                    ],
+                    [
+                        116.83263609185815,
+                        6.408177791163325,
+                        315.828125
+                    ],
+                    [
+                        116.83243609964848,
+                        6.406305525451899,
+                        357.0234375
+                    ],
+                    [
+                        116.83212496340275,
+                        6.405675038695335,
+                        372.29296875
+                    ],
+                    [
+                        116.83144996874034,
+                        6.406175019219518,
+                        378.80078125
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "Minindai5 to Minindai4"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        116.83668052777648,
+                        6.409094436094165,
+                        156.42578125
+                    ],
+                    [
+                        116.83803630061448,
+                        6.408352050930262,
+                        141.51171875
+                    ],
+                    [
+                        116.838394459337,
+                        6.40826110728085,
+                        139.36328125
+                    ],
+                    [
+                        116.83782222680748,
+                        6.407722234725952,
+                        168.9609375
+                    ],
+                    [
+                        116.83843058533967,
+                        6.406588917598128,
+                        191.78125
+                    ],
+                    [
+                        116.83638330549002,
+                        6.404483299702406,
+                        399.734375
+                    ],
+                    [
+                        116.835653828457,
+                        6.404898958280683,
+                        410.9375
+                    ],
+                    [
+                        116.83555274270475,
+                        6.404794435948134,
+                        412.203125
+                    ],
+                    [
+                        116.83309164829552,
+                        6.405813926830888,
+                        366.40234375
+                    ],
+                    [
+                        116.83668052777648,
+                        6.409094436094165,
+                        156.42578125
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "Minindai9 to Minindai9 001"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
